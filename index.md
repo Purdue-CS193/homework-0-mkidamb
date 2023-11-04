@@ -12,14 +12,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Medha's First CS193 Homework
-## Header 2
-### Header 3
 
 - I like how I can learn about how to improve my elevator pitch through this class.
-- I also like how I will learn mmore about how to improve my resume.
+- I also like how I will learn more about how to improve my resume.
 
-1. Numbered
-2. List
+1. I like how I can learn about how to improve my elevator pitch through this class.
+2. I also like how I will learn more about how to improve my resume.
+
 
 **Bold** and _Italic_ and `Code` text
 
